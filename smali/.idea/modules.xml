@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/baksmali/baksmali.iml" filepath="$PROJECT_DIR$/baksmali/baksmali.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dexlib/dexlib.iml" filepath="$PROJECT_DIR$/dexlib/dexlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-smali-plugin/maven-smali-plugin.iml" filepath="$PROJECT_DIR$/maven-smali-plugin/maven-smali-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smali/smali.iml" filepath="$PROJECT_DIR$/smali/smali.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smali-pom.iml" filepath="$PROJECT_DIR$/smali-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
+    </modules>
+  </component>
+</project>

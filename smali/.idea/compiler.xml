@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="util" />
+        <module name="baksmali" />
+        <module name="dexlib" />
+        <module name="smali" />
+        <module name="maven-smali-plugin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="baksmali" target="1.5" />
+      <module name="dexlib" target="1.5" />
+      <module name="maven-smali-plugin" target="1.5" />
+      <module name="smali" target="1.5" />
+      <module name="smali-pom" target="1.5" />
+      <module name="util" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

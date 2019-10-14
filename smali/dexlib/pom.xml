@@ -10,14 +10,15 @@
       <artifactId>smali-pom</artifactId>
       <version>1.0-SNAPSHOT</version>
     </parent>
-    <reporting>
+    <!--reporting>
        <plugins>
          <plugin>
            <groupId>org.apache.maven.plugins</groupId>
            <artifactId>maven-javadoc-plugin</artifactId>
+             <version>3.1.1</version>
          </plugin>
        </plugins>
-     </reporting>
+     </reporting-->
     <dependencies>
       <dependency>
 	<groupId>junit</groupId>
